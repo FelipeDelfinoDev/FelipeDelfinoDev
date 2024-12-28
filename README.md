@@ -4,8 +4,6 @@
 
 [![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDelfinoDev&show_icons=true&theme=merko)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDelfinoDev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
